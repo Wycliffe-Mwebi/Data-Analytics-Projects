@@ -1,5 +1,5 @@
 # Investment Analysis
-## How does volatility impact returns - part 1
+## How does volatility impact returns
 
 We'll do a few tests:
 - Test 1: Does volatility of investments affect expected returns?
