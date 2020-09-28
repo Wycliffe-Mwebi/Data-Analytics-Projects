@@ -1,4 +1,4 @@
-#Investment Analysis
+# Investment Analysis
 ## How does volatility impact returns - part 1
 
 We'll do a few tests:
